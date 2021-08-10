@@ -1,0 +1,16 @@
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\obj\Debug\net5.0\ProblemStatment.csprojAssemblyReference.cache
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\obj\Debug\net5.0\ProblemStatment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\obj\Debug\net5.0\ProblemStatment.AssemblyInfoInputs.cache
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\obj\Debug\net5.0\ProblemStatment.AssemblyInfo.cs
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\obj\Debug\net5.0\ProblemStatment.csproj.CoreCompileInputs.cache
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\bin\Debug\net5.0\ProblemStatment.exe
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\bin\Debug\net5.0\ProblemStatment.deps.json
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\bin\Debug\net5.0\ProblemStatment.runtimeconfig.json
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\bin\Debug\net5.0\ProblemStatment.runtimeconfig.dev.json
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\bin\Debug\net5.0\ProblemStatment.dll
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\bin\Debug\net5.0\ref\ProblemStatment.dll
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\bin\Debug\net5.0\ProblemStatment.pdb
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\obj\Debug\net5.0\ProblemStatment.dll
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\obj\Debug\net5.0\ref\ProblemStatment.dll
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\obj\Debug\net5.0\ProblemStatment.pdb
+C:\Users\admn\Desktop\Blueconch Technologies\ProblemStatment\ProblemStatment\obj\Debug\net5.0\ProblemStatment.genruntimeconfig.cache
